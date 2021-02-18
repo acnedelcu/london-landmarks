@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<landmarks>
+    <landmark>
+        <name>Westminster Abbey</name>
+        <shortDescription>16 Century Cathedral</shortDescription>
+        <longDescription>More than 3,000 famous people are buried and many others commemorated in the Abbey, including kings and queens, writers, musicians, scientists, politicians, and noblemen and women.</longDescription>
+        <image>westminster.jpeg</image>
+        <website>https://en.wikipedia.org/wiki/Westminster_Abbey</website>
+        <location>geo:0,0?q=Westminster Abbey Cathedral, London</location>
+    </landmark>
+
+    <landmark>
+        <name>British Museum</name>
+        <shortDescription>Public institution dedicated to human hostory, art and culture</shortDescription>
+        <longDescription>The British Museum is unique in bringing together under one roof the cultures of the world, spanning continents and oceans. No other museum is responsible for collections of the same depth and breadth, beauty and significance.</longDescription>
+        <image>british.jpg</image>
+        <website>https://en.wikipedia.org/wiki/British_Museum</website>
+        <location>geo:0,0?q=Biritish Museum, London</location>
+    </landmark>
+
+    <landmark>
+        <name>Big Ben</name>
+        <shortDescription>Famous Clock Tower In London</shortDescription>
+        <longDescription>Big Ben is the nickname for the Great Bell of the striking clock at the north end of the Palace of Westminster in London; the name is frequently extended to refer to both the clock and the clock tower. The official name of the tower in which Big Ben is located was originally the Clock Tower</longDescription>
+        <image>bigben.jpg</image>
+        <website>https://en.wikipedia.org/wiki/Big_Ben</website>
+        <location>geo:0,0?q=Big Ben, London</location>
+    </landmark>
+
+    <landmark>
+        <name>London Eye</name>
+        <shortDescription>Observation wheel on the banks of Thames</shortDescription>
+        <longDescription>The London Eye, or the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is Europe's tallest cantilevered observation wheel, and is the most popular paid tourist attraction in the United Kingdom with over 3 million visitors annually, and has made many appearances in popular culture.</longDescription>
+        <image>londoneye.jpg</image>
+        <website>https://en.wikipedia.org/wiki/London_Eye</website>
+        <location>geo:0,0?q=London Eye, London</location>
+    </landmark>
+
+    <landmark>
+        <name>National Gallery</name>
+        <shortDescription>Famous Art Museum</shortDescription>
+        <longDescription>The National Gallery is an art museum in Trafalgar Square in the City of Westminster, in Central London. Founded in 1824, it houses a collection of over 2,300 paintings dating from the mid-13th century to 1900</longDescription>
+        <image>nationalgallery.jpg</image>
+        <website>https://en.wikipedia.org/wiki/National_Gallery</website>
+        <location>geo:0,0?q=National Gallery, London</location>
+    </landmark>
+
+    <landmark>
+        <name>Churchill War Rooms</name>
+        <shortDescription>WWII History Museum</shortDescription>
+        <longDescription>The Churchill War Rooms is a museum in London and one of the five branches of the Imperial War Museum. The museum comprises the Cabinet War Rooms and the Churchill Museum, a biographical museum exploring the life of British statesman Winston Churchill.</longDescription>
+        <image>warrooms.jpg</image>
+        <website>https://en.wikipedia.org/wiki/Churchill_War_Rooms</website>
+        <location>geo:0,0?q=Churchill War Rooms, London</location>
+    </landmark>
+
+    <landmark>
+        <name>Buckingham Palace</name>
+        <shortDescription>Queen Elisabeth's Official Residence</shortDescription>
+        <longDescription>Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning.</longDescription>
+        <image>buckingham.jpg</image>
+        <website>https://en.wikipedia.org/wiki/Buckingham_Palace</website>
+        <location>geo:0,0?q=Buckingham Palace, London</location>
+    </landmark>
+
+    <landmark>
+        <name>Tate Modern</name>
+        <shortDescription>Contemporary Art Museum</shortDescription>
+        <longDescription>Tate Modern is a modern art gallery located in London. It is Britain's national gallery of international modern art. As with the UK's other national galleries and museums, there is no admission charge for access to the collection displays</longDescription>
+        <image>tatemodern.jpg</image>
+        <website>https://en.wikipedia.org/wiki/Tate_Modern</website>
+        <location>geo:0,0?q=Tate Modern ,Bankside, London</location>
+    </landmark>
+
+    <landmark>
+        <name>Piccadilly Circus</name>
+        <shortDescription>London's Time Square</shortDescription>
+        <longDescription>Piccadilly Circus is located in London’s West End, in the city of Westminster. It has several notable sites and attractions and is one of the busiest junctions in London.</longDescription>
+        <image>piccadilly.png</image>
+        <website>https://en.wikipedia.org/wiki/Piccadilly_Circus</website>
+        <location>geo:0,0?q=Piccadilly Circus, London</location>
+    </landmark>
+
+    <landmark>
+        <name>Hyde Park</name>
+        <shortDescription>Large Park In The Centre Of London</shortDescription>
+        <longDescription>Hyde Park remains to be one of the most popular outdoor attractions in London, and with so many festivals, events, exhibits and concerts being held in Hyde Park throughout the year, it’s easy to see why. The park also boasts more than 360 acres of land and contains attractions, gardens, monuments, memorials and even palaces.</longDescription>
+        <image>hydepark.jpg</image>
+        <website>https://en.wikipedia.org/wiki/Hyde_Park,_London</website>
+        <location>geo:51.507221, -0.165690</location>
+    </landmark>
+</landmarks>
